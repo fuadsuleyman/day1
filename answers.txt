@@ -1,0 +1,11 @@
+1. Yuxarıdakı tasklarda nə üçün Inheritance istifadə etdiniz? Bunun nə kimi avantajı olacaq?
+cavab: Avantaj olaraq esasen Parent klasin method ve deyishenlerinden istifade etmeyimzdi.
+
+2. 6 və 13-cü tasklarda fieldləri niyə o şəkildə paylaşdırdığınızı öz sözlərinizlə açıqlayın?
+cavab: Tekrarlanan fieldleri Product klasina yazdim, xususi fieldleri klaslarin ozlerine
+
+3. Sizcə biz Encapsulation-ı nə üçün istifadə etdik?
+cavab: fieldlere birbasa mudaxile edile bilmemesi ucun, ve ya setter-e mueyyen shert yaza bilerdik
+
+4. 12-ci taskda Polymorphism istifadə etmək bizə nə qazandırdı?
+cavab: Bir dəfə yazdigimiz methodu(get_name) bir neçə dəfə təkrar(mueyyen deyisikliklerlede ola biler) istifadə  edirik.
